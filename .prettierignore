@@ -1,0 +1,5 @@
+dist/
+build/
+types/
+tsconfig.json
+*-lock.json
